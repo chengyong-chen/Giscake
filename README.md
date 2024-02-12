@@ -1,4 +1,4 @@
-*Coming soon*
+*Coming soon*.........
 
 
 **Giscake** is a web map library written in javascript ES6, it was created by Chengyong Chen, a chinese living in Canada.
