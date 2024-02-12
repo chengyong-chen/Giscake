@@ -11,7 +11,7 @@ My goal of this project is to make the code as **simple** as I can:
     
  - if I can write something in one line I won't use two(except for some *if else* statement, I like one *if* for one condition). 
 
-The mian difference between this library and the others, like Leaflet, Giscake mainly focuses on handling **vector data, big data and styling**. Giscake can load single page vector map, which is relatively size small, when a map is very big, usually it is loaded through either vector tiles or image tiles. Giscake handles vector data through pbf file, which make the data size much smaller, being loaded faster.
+The mian difference between this library and the others, like Leaflet, Giscake mainly focuses on handling **vector data, big data and styling**. Giscake can load single page vector map, which is relatively size small, when a map is very big, usually it is loaded through either vector tiles or image tiles. Giscake handles vector data through pbf(Protocolbuffer Binary Format) file, which make the data size much smaller, being loaded faster.
 
 There is a desktop application called **Diwatu Mapper**, which is a free GIS and map designing software, written in c++ by myself. Using Diwatu Mapper you can designe a map, and export to Giscake. You can import almost any format of maps into Diwatu Mapper, export to Giscake after finishing your design.
 
