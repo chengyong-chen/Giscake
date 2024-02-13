@@ -1,7 +1,7 @@
 *Coming soon* .........
 
 
-**Giscake** is a open source, light weight and easy to use web map library written in javascript ES6 for publishing maps on your website. It is created by Chengyong Chen, a chinese living in Canada.
+**Giscake** is a open source, light weight and easy to use web map library written in javascript ES6. Using it you can publish map and GIS data on your website. It is created by Chengyong Chen, a chinese living in Canada.
 
 My goal of this project is to make the code as **simple** as I can:
 
