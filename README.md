@@ -26,4 +26,6 @@ I am actively maitaining Diwatu Mapper and Giscake, if you find any bugs and new
 
 Giscake is the leading open-source JavaScript library for **mobile-friendly interactive maps**.
 
-Learn more about Giscake and Mapper, plase visite www.diwatu.com to see what I can do for you.
+Learn more about Giscake and Mapper, plase visite www.diwatu.com to see what it can do for you.
+
+Learn more about myselft please visit me at https://www.linkedin.com/in/chengyong-chen-9a330b38/
