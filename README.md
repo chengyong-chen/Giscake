@@ -32,4 +32,4 @@ Giscake is the leading open-source JavaScript library for **mobile-friendly inte
 
 Learn more about Giscake and Mapper, plase visite www.diwatu.com to see what it can do for you.
 
-Learn more about myselft please visit me at https://www.linkedin.com/in/chengyong-chen-9a330b38/
+Learn more about myself, follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chengyong-chen-9a330b38
