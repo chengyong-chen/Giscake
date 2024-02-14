@@ -15,11 +15,9 @@ The mian difference between this library and the others, like Leaflet, Giscake m
 
 Giscake is not just a basemap platform, it has lots of GIS features, you can also create different types of themetic map series, display and load information associated with geometries dynamically.
 
-There is a desktop application called **Diwatu Mapper**, which is a free GIS and map designing software, written in c++ by myself. Using Diwatu Mapper you can designe a map, and export to Giscake. You can import almost any format of maps into Diwatu Mapper, export to Giscake after finishing your design.
-
 Giscake can also be used for displaying any graphical files, i.e. you can import a *pdf* file into Diwatu Mapper and export to Giscake.
 
-
+There is a desktop application called **Diwatu Mapper**, which is a free GIS and map designing software, written in c++ by myself. Using Diwatu Mapper you can designe a map, and export to Giscake. You can import almost any format of maps into Diwatu Mapper, export to Giscake after finishing your design.
 
 If you go to www.diwatu.com, you will find thounds of maps which you can use as a base map and do some customization. Most of the source map files are downloadable, you can redesign it in Mapper basing on what you want.
 
