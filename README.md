@@ -32,23 +32,4 @@ Giscake is the leading open-source JavaScript library for **mobile-friendly inte
 
 Learn more about Giscake and Mapper, plase visite www.diwatu.com to see what it can do for you.
 
-Learn more about myself, follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chengyong-chen-9a330b38
-
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chengyong-chen-9a330b38" target="_blank">Follow on LinkedIn</a>
+Learn more about myself, follow me on LinkedIn: <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chengyong-chen-9a330b38" target="_blank">Follow on LinkedIn</a>
