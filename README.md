@@ -21,7 +21,7 @@ There is a desktop application called **Diwatu Mapper**, which is a free GIS and
 
 If you go to www.diwatu.com, you will find thounds of maps which you can use as a base map and do some customization. Most of the source map files are downloadable, you can redesign it in Mapper basing on what you want.
 
-WWW.diwatu.com is a basemap sharing platform, also a website helping non-developer users to created thematic maps. It is created by myself as well.
+www.diwatu.com is a basemap sharing platform, also a website helping non-developer users to created thematic maps. It is created by myself as well.
 
 I am actively maitaining Diwatu Mapper and Giscake, if you find any bugs and new feature request, please log a bug or create request in here. Or you can contact me through my email, chengyong.chen@hotmail.com
 
