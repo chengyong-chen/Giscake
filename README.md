@@ -17,11 +17,11 @@ Giscake is not just a basemap platform, it has lots of GIS features, you can als
 
 Giscake can also be used for displaying any graphical files, i.e. you can import a *pdf* file into Diwatu Mapper and export to Giscake.
 
-There is a desktop application called **Diwatu Mapper**, which is a free GIS and map designing software, written in c++ by myself. Using Diwatu Mapper you can designe a map, and export to Giscake. You can import almost any format of maps into Diwatu Mapper, export to Giscake after finishing your design.
+There is a desktop application called **Diwatu Mapper**, which is a free GIS and map designing software, written in c++ by myself. Using Diwatu Mapper you can designe a map, and export to Giscake. You can import almost any format of maps into Diwatu Mapper, export to Giscake after finishing your design. Diwatu Mapper can be downloaded from here www.diwatu.com
 
 If you go to www.diwatu.com, you will find thounds of maps which you can use as a base map and do some customization. Most of the source map files are downloadable, you can redesign it in Mapper basing on what you want.
 
-Diwatu Mapper can be downloaded from here www.diwatu.com
+WWW.diwatu.com is a basemap sharing platform, also a website helping non-developer users to created thematic maps.
 
 I am actively maitaining Diwatu Mapper and Giscake, if you find any bugs and new feature request, please log a bug or create request in here. Or you can contact me through my email, chengyong.chen@hotmail.com
 
