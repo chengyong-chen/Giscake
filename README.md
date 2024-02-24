@@ -1,6 +1,6 @@
 *Coming soon* .........
 
-
+# Giscake
 **Giscake** is a open source, light weight and easy to use web map library written in javascript ES6. Using it you can publish map and GIS data on your website. It is created by Chengyong Chen, a chinese living in Canada.
 
 My goal is to create the best web map platform:
@@ -16,9 +16,10 @@ The mian difference between this library and the others, like Leaflet, Giscake m
 Giscake is not just a basemap platform, it has lots of GIS features, you can also create different types of themetic map series, display and load information associated with geometries dynamically.
 
 Giscake can also be used for displaying any graphical files, i.e. you can import a *pdf* file into Diwatu Mapper and export to Giscake.
+# Diwatu Mapper
+Diwatu Mapper is a desktop application, which is a free GIS and map designing software, written in c++ by myself. Using Diwatu Mapper you can designe a map, and export to Giscake. You can import almost any format of maps into Diwatu Mapper, export to Giscake after finishing your design. Diwatu Mapper can be downloaded from here www.diwatu.com
 
-There is a desktop application called **Diwatu Mapper**, which is a free GIS and map designing software, written in c++ by myself. Using Diwatu Mapper you can designe a map, and export to Giscake. You can import almost any format of maps into Diwatu Mapper, export to Giscake after finishing your design. Diwatu Mapper can be downloaded from here www.diwatu.com
-
+# www.diwatu.com
 If you go to https://www.diwatu.com, you will find thounds of maps which you can use as a base map and do some customization. Most of the source map files are downloadable, you can redesign it in Mapper basing on what you want.
 
 https://www.diwatu.com is a basemap sharing platform, also a website helping non-developer users to created thematic maps. It is created by myself as well.
