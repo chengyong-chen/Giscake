@@ -16,14 +16,23 @@ The mian difference between this library and the others, like Leaflet, Giscake m
 Giscake is not just a basemap platform, it has lots of GIS features, you can also create different types of themetic map series, display and load information associated with geometries dynamically.
 
 **What Giscake really looks like**:	
+
 	- Pupular web maps, like Google, OpenLayer, Bing and any all others
+ 
 	- Vector map as one page	
+ 
 	- Tiled vector map
+ 
 	- Tiled image map
+ 
 	- A vector map on top of a 3rd part web map
+ 
 	- Any pdf graphic file
+ 
 	- Thematic map 
+ 
 	- A thematic map with dynamic timeline 
+ 
 	- Thematic map on top of a 3rd part web map 
  
 Giscake can also be used for displaying any graphical files, i.e. you can import a *pdf* file into Diwatu Mapper and export to Giscake.
