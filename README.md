@@ -14,8 +14,8 @@ My goal is to create the best web map platform:
 The mian difference between this library and the others, like Leaflet, Giscake mainly focuses on handling **vector data, big data and styling**. Giscake can load single page vector map, which is relatively size small, when a map is very big, it can be pieced into small vector or image tiles. Giscake handles vector data through pbf(Protocol buffer Binary) format, which make the data size much smaller, being loaded faster.
 
 Giscake is not just a basemap platform, it has lots of GIS features, you can also create different types of themetic map series, display and load information associated with geometries dynamically.
-**What Giscake really looks like**:
-	
+
+**What Giscake really looks like**:	
 	- Pupular web maps, like Google, OpenLayer, Bing and any all others
 	- Vector map as one page	
 	- Tiled vector map
