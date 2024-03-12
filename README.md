@@ -19,9 +19,9 @@ Giscake is not just a basemap platform, it has lots of GIS features, you can als
 
 - Pupular web maps, like Google, OpenLayer, Bing and any all others
 
-- Vector map as one page	
+- Vector map as one page	(It is 30M+ file, the vector file will be provided with source code)
   [![image](https://github.com/chengyong-chen/Giscake/assets/118710448/c6f2da09-c463-4194-ab19-161f1245d5d0)]
- (It is 30M+ file, the vector file will be provided with source code)
+ 
 
 - Tiled vector map
  [![image](https://github.com/chengyong-chen/Giscake/assets/118710448/6ed799f3-4134-42e9-907b-6c4bf0acaaed)](https://www.diwatu.com/#view/basemap=268442629)
