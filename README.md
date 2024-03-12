@@ -18,6 +18,7 @@ Giscake is not just a basemap platform, it has lots of GIS features, you can als
 **What Giscake really looks like**:	
 
 - Pupular web maps, like Google, OpenLayer, Bing and any all others
+
   coming soon
   
 - Vector map as one page	(It is 30M+ file, the vector file will be provided with source code)
@@ -30,6 +31,7 @@ Giscake is not just a basemap platform, it has lots of GIS features, you can als
  [![image](https://github.com/chengyong-chen/Giscake/assets/118710448/e5330db2-8c91-4ca8-90ee-7ce5ebbf1bf7)](https://www.diwatu.com/#view/basemap=268441230)
 
 - A vector map on top of a 3rd part web map
+
   coming soon
 
 - Any pdf graphic file
@@ -42,7 +44,8 @@ Giscake is not just a basemap platform, it has lots of GIS features, you can als
  [![image](https://github.com/chengyong-chen/Giscake/assets/118710448/c1fa600f-a06e-4cdf-beb2-41c0147b22e2)](https://www.diwatu.com/#view/thematic=536871929)
 
 - Thematic map on top of a 3rd part web map 
-   coming soon
+
+  coming soon
 
 # Diwatu Mapper
 Diwatu Mapper is a desktop application, which is a free GIS and map designing software, written in c++ by myself. Using Diwatu Mapper you can designe a map, and export to Giscake. You can import almost any format of maps into Diwatu Mapper, export to Giscake after finishing your design. Diwatu Mapper can be downloaded from here www.diwatu.com
