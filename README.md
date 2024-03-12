@@ -28,9 +28,11 @@ Giscake is not just a basemap platform, it has lots of GIS features, you can als
 - A vector map on top of a 3rd part web map
 
 - Any pdf graphic file
-![image](https://github.com/chengyong-chen/Giscake/assets/118710448/d6d8ac59-b576-41c5-a724-499e0df61d3a)
 
 - Thematic map 
+[![image](https://github.com/chengyong-chen/Giscake/assets/118710448/d6d8ac59-b576-41c5-a724-499e0df61d3a)](https://github.com/Leaflet/Leaflet/actions/workflows/main.yml)
+
+
 
 - A thematic map with dynamic timeline 
 
