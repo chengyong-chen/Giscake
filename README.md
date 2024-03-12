@@ -30,7 +30,7 @@ Giscake is not just a basemap platform, it has lots of GIS features, you can als
 - Any pdf graphic file
 
 - Thematic map 
-[![image](https://github.com/chengyong-chen/Giscake/assets/118710448/d6d8ac59-b576-41c5-a724-499e0df61d3a)](https://github.com/Leaflet/Leaflet/actions/workflows/main.yml)
+[![image](https://github.com/chengyong-chen/Giscake/assets/118710448/d6d8ac59-b576-41c5-a724-499e0df61d3a)]([https://github.com/Leaflet/Leaflet/actions/workflows/main.yml](https://www.diwatu.com/#view/thematic=536871926))
 
 
 
