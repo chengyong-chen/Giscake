@@ -22,28 +22,40 @@ Giscake is not just a basemap platform, it has lots of GIS features, you can als
   coming soon
   
 - Vector map as one page	(It is 30M+ file, the vector file will be provided with source code)
-  [![image](https://github.com/chengyong-chen/Giscake/assets/118710448/c6f2da09-c463-4194-ab19-161f1245d5d0) | width=100]
+ 
+  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/c6f2da09-c463-4194-ab19-161f1245d5d0" width="500px" height="400px">
+
  
 - Tiled vector map
- [![image](https://github.com/chengyong-chen/Giscake/assets/118710448/6ed799f3-4134-42e9-907b-6c4bf0acaaed)](https://www.diwatu.com/#view/basemap=268442629)
+ 
+  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/6ed799f3-4134-42e9-907b-6c4bf0acaaed"  width="500px">(https://www.diwatu.com/#view/basemap=268442629)
+
 
 - Tiled image map
- [![image](https://github.com/chengyong-chen/Giscake/assets/118710448/e5330db2-8c91-4ca8-90ee-7ce5ebbf1bf7)](https://www.diwatu.com/#view/basemap=268441230)
+ 
+  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/e5330db2-8c91-4ca8-90ee-7ce5ebbf1bf7"  width="500px">()
+
 
 - A vector map on top of a 3rd part web map
 
   coming soon
 
+
 - Any pdf graphic file
+ 
+  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/ca20a720-f0b6-46b8-9289-f30d56f125cc" width="500px">(https://www.diwatu.com/#view/basemap=268442633)
+
+
+- Thematic map
+ 
+  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/d6d8ac59-b576-41c5-a724-499e0df61d3a"  width="500px">(https://www.diwatu.com/#view/thematic=536871926))
+
+
+- A thematic map with dynamic timeline
+ 
+  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/c1fa600f-a06e-4cdf-beb2-41c0147b22e2"  width="500px">(https://www.diwatu.com/#view/thematic=536871929)
+
   
-  [![image](https://github.com/chengyong-chen/Giscake/assets/118710448/ca20a720-f0b6-46b8-9289-f30d56f125cc)](https://www.diwatu.com/#view/basemap=268442633)
-
-- Thematic map 
-[![image](https://github.com/chengyong-chen/Giscake/assets/118710448/d6d8ac59-b576-41c5-a724-499e0df61d3a)]([https://github.com/Leaflet/Leaflet/actions/workflows/main.yml](https://www.diwatu.com/#view/thematic=536871926))
-
-- A thematic map with dynamic timeline 
- [![image](https://github.com/chengyong-chen/Giscake/assets/118710448/c1fa600f-a06e-4cdf-beb2-41c0147b22e2)](https://www.diwatu.com/#view/thematic=536871929)
-
 - Thematic map on top of a 3rd part web map 
 
   coming soon
