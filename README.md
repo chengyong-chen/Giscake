@@ -32,9 +32,9 @@ Giscake is not just a basemap platform, it has lots of GIS features, you can als
   </a>
 
 - Tiled image map
- 
-  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/e5330db2-8c91-4ca8-90ee-7ce5ebbf1bf7"  width="500px">()
-
+  <a href='' target="_self">
+   <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/e5330db2-8c91-4ca8-90ee-7ce5ebbf1bf7"  width="500px">()
+  </a>
 
 - A vector map on top of a 3rd part web map
 
@@ -42,19 +42,20 @@ Giscake is not just a basemap platform, it has lots of GIS features, you can als
 
 
 - Any pdf graphic file
- 
-  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/ca20a720-f0b6-46b8-9289-f30d56f125cc" width="500px">(https://www.diwatu.com/#view/basemap=268442633)
 
+ <a href='https://www.diwatu.com/#view/basemap=268442633' target="_self">
+  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/ca20a720-f0b6-46b8-9289-f30d56f125cc" width="500px">
+ </a>
 
 - Thematic map
- 
-  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/d6d8ac59-b576-41c5-a724-499e0df61d3a"  width="500px">(https://www.diwatu.com/#view/thematic=536871926))
-
+ <a href='https://www.diwatu.com/#view/thematic=536871926' target="_self">
+  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/d6d8ac59-b576-41c5-a724-499e0df61d3a"  width="500px">
+ </a>
 
 - A thematic map with dynamic timeline
- 
-  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/c1fa600f-a06e-4cdf-beb2-41c0147b22e2"  width="500px">(https://www.diwatu.com/#view/thematic=536871929)
-
+ <a href='https://www.diwatu.com/#view/thematic=536871929' target="_self">
+  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/c1fa600f-a06e-4cdf-beb2-41c0147b22e2"  width="500px">
+ </a>
   
 - Thematic map on top of a 3rd part web map 
 
