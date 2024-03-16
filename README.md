@@ -27,9 +27,9 @@ Giscake is not just a basemap platform, it has lots of GIS features, you can als
 
  
 - Tiled vector map
- 
-  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/6ed799f3-4134-42e9-907b-6c4bf0acaaed"  width="500px">(https://www.diwatu.com/#view/basemap=268442629)
-
+  <a href='https://www.diwatu.com/#view/basemap=268442629' target="_self">
+   <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/6ed799f3-4134-42e9-907b-6c4bf0acaaed"  width="500px">
+  </a>
 
 - Tiled image map
  
