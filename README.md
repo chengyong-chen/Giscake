@@ -23,7 +23,7 @@ Giscake is not just a basemap platform, it has lots of GIS features, you can als
   
 - Vector map as one page	(It is 30M+ file, the vector file will be provided with source code)
  
-  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/c6f2da09-c463-4194-ab19-161f1245d5d0" width="500px" height="400px">
+  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/c6f2da09-c463-4194-ab19-161f1245d5d0" width="500px" height="300px">
  
 - Tiled vector map
 
@@ -34,7 +34,7 @@ Giscake is not just a basemap platform, it has lots of GIS features, you can als
 - Tiled image map
 - 
    <a href='' target="_blank">
-    <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/e5330db2-8c91-4ca8-90ee-7ce5ebbf1bf7"  width="500px">()
+    <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/e5330db2-8c91-4ca8-90ee-7ce5ebbf1bf7"  width="500px">
    </a>
 
 - A vector map on top of a 3rd part web map
