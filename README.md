@@ -1,83 +1,75 @@
 *All source code is coming soon* .........
 
-# Giscake
-**Giscake** is an open source, light weight and easy to use web map library written in javascript ES6. Using it you can publish map and GIS data on your website. It is created by Chengyong Chen, a chinese living in Canada.
+# Giscake - Lightweight Web Map Library
 
-My goal is to create the best web map platform:
+**Giscake** is a cutting-edge open-source JavaScript library designed for creating dynamic web maps effortlessly. Crafted with simplicity and efficiency in mind, it offers a seamless experience for developers and users alike. Authored by Chengyong Chen, a talented developer residing in Canada, Giscake aims to set a new standard in web mapping platforms.
 
- - less comments, the code should be best comments for itself; 
-    
- - less events between components, making it esier to understand the logics; 
-    
- - if I can write something in one line I won't use two(except for some *if else* statement, I like one *if* for one condition). 
+ *Key Principles:
 
-The mian difference between this library and the others, like Leaflet, Giscake mainly focuses on handling **vector data, big data and styling**. Giscake can load single page vector map, which is relatively size small, when a map is very big, it can be pieced into small vector or image tiles. Giscake handles vector data through pbf(Protocol buffer Binary) format, which make the data size much smaller, being loaded faster.
+Minimalistic Approach: Giscake prioritizes concise code over excessive comments, ensuring that the code speaks for itself.
 
-Giscake is not just a basemap platform, it has lots of GIS features, you can also create different types of themetic map series, display and load information associated with geometries dynamically. Giscake can also be used for displaying any graphical files, i.e. you can import a *pdf* file into Diwatu Mapper and export to Giscake.
+Simplified Logic: Streamlined event handling between components enhances code comprehension, making Giscake's logic easy to grasp.
 
-**What Giscake really looks like**:	
+Efficiency in Code: Embracing a 'one-liner' philosophy, Giscake optimizes code structure, favoring succinctness without compromising clarity, except in conditional statements where simplicity reigns supreme.
 
-- Pupular web maps, like Google, OpenLayer, Bing and any all others
+ *Unique Features:
 
-  coming soon
+Distinguished from its counterparts like Leaflet, Giscake shines in its adept handling of vector data, especially suited for large datasets and sophisticated styling. Noteworthy features include:
+
+Single Page Vector Maps: Giscake efficiently loads compact vector maps or divides larger maps into manageable tiles, ensuring swift rendering.
+
+Protocol Buffer Binary (PBF) Format: Leveraging PBF format for vector data minimizes file size, facilitating faster loading times.
+
+Advanced GIS Capabilities: Beyond basic basemap functionality, Giscake empowers users to create diverse thematic map series, dynamically display and load geometry-related information, and seamlessly integrate graphical files such as PDFs.
+
+ *Capabilities: Giscake's versatility extends to various map configurations and overlays, including:
+
+- Standard Web Maps: Mimicking popular platforms like Google, OpenLayer, Bing, and more.
+
+     coming soon
   
-- Vector map as one page	(It is 30M+ file, the vector file will be provided with source code)
- 
-  <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/c6f2da09-c463-4194-ab19-161f1245d5d0" width="500px" height="300px">
- 
-- Tiled vector map
+- Single-page vector map
 
-   <a href='https://www.diwatu.com/#view/basemap=268442629' target="_blank">
+   <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/c6f2da09-c463-4194-ab19-161f1245d5d0" width="500px" height="400px">
+   
+- Tiled vector map  
+
+     <a href='https://www.diwatu.com/#view/basemap=268442629' target="_blank">
     <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/6ed799f3-4134-42e9-907b-6c4bf0acaaed"  width="500px">
    </a>
-
-- Tiled image map
-- 
+   
+- Tiled Image Maps
+    
    <a href='' target="_blank">
     <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/e5330db2-8c91-4ca8-90ee-7ce5ebbf1bf7"  width="500px">
    </a>
 
-- A vector map on top of a 3rd part web map
-
-  coming soon
-
-
-- Any pdf graphic file
-
-  <a href='https://www.diwatu.com/#view/basemap=268442633' target="_blank">
-   <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/ca20a720-f0b6-46b8-9289-f30d56f125cc" width="500px">
-  </a>
-
-- Thematic map
-- 
+- Integration with Third-Party Maps: Overlay vector maps onto existing web maps for enhanced context and functionality.
+  
+   coming soon
+  
+- Thematic Mapping:
+  
   <a href='https://www.diwatu.com/#view/thematic=536871926' target="_blank">
    <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/d6d8ac59-b576-41c5-a724-499e0df61d3a"  width="500px">
   </a>
-
-- A thematic map with dynamic timeline
-- 
+  
+ - Timeline-based visualizations offer insights and interactivity
+ 
   <a href='https://www.diwatu.com/#view/thematic=536871929' target="_blank">
    <img src="https://github.com/chengyong-chen/Giscake/assets/118710448/c1fa600f-a06e-4cdf-beb2-41c0147b22e2"  width="500px">
   </a>
   
-- Thematic map on top of a 3rd part web map 
+## Diwatu Mapper Integration:
 
-  coming soon
+Complementing Giscake's capabilities is Diwatu Mapper, a robust desktop application for GIS and map design. Users can seamlessly transfer designs from Diwatu Mapper to Giscake, leveraging its extensive format support and intuitive interface. Visit Diwatu.com to explore a wealth of maps and design possibilities.
 
-# Diwatu Mapper
-Diwatu Mapper is a desktop application, which is a free GIS and map designing software, written in c++ by myself. Using Diwatu Mapper you can designe a map, and export to Giscake. You can import almost any format of maps into Diwatu Mapper, export to Giscake after finishing your design. Diwatu Mapper can be downloaded from here www.diwatu.com
+It is another free software, written in c++ by myself. 
 
-# www.diwatu.com
-https://www.diwatu.com is a basemap sharing platform. If you go to https://www.diwatu.com, you will find thounds of maps which you can use as a base map and do some customization. Most of the source map files are downloadable, you can redesign it in Mapper basing on what you want.
+## Community Engagement:
 
-Diwatu.com also a website which helps non-developer users to created thematic maps. It is created by myself as well.
+Active maintenance and support underscore Giscake's commitment to excellence. Users are encouraged to report bugs or suggest features through GitHub or by contacting me directly via email at chengyong.chen@hotmail.com. Stay updated on the latest developments and insights by following me on <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chengyong-chen-9a330b38" target="_blank">LinkedIn</a>.
 
-# Connection
-I am actively maitaining Diwatu Mapper and Giscake, if you find any bugs and new feature request, please log a bug or create request in here. Or you can contact me through my email, chengyong.chen@hotmail.com
+## Conclusion:
 
-
-Giscake is the leading open-source JavaScript library for **mobile-friendly interactive maps**.
-
-Learn more about Giscake and Mapper, plase visite https://www.diwatu.com to see what it can do for you.
-
-Learn more about myself, follow me on LinkedIn: <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chengyong-chen-9a330b38" target="_blank">Follow on LinkedIn</a>
+Giscake stands as a leading-edge JavaScript library, empowering developers and users to craft immersive, mobile-friendly interactive maps with ease. Explore the endless possibilities and unleash your creativity with Giscake and Diwatu Mapper. Discover more at [Diwatu.com](https://www.diwatu.com) and embark on a journey of unparalleled mapping experiences.
